@@ -1,4 +1,4 @@
-Postgres 9.3 with PostGIS
+Postgres 9.5 with PostGIS
 =========================
 
 ```
